@@ -25,4 +25,21 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 400%;
+    margin-left: 10px;
+}
+
+/* navigation link */
+
+#menu {
+    font-size: 200%;
+    letter-spacing: 5px;
+    direction: rtl;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    font-family: Anton, sans-serif;
+    margin-right: 30px;
+    
 }
