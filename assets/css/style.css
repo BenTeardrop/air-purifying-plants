@@ -7,6 +7,22 @@
 }
 
 body {
+    background-color: #757575;
+    color: #ffff;
     font-family: Roboto, sans-serif;
     font-weight: 300;
+}
+
+/* headings and logo */
+
+h1, h2 {
+    font-family: Anton, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #ffff;
+}
+
+#logo {
+    float: left;
+    font-size: 400%;
 }
