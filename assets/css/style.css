@@ -35,9 +35,12 @@ h1, h2 {
     letter-spacing: 5px;
     direction: rtl;
 }
-
+nav ul {
+    float:right;
+}
 #menu li {
-    float: right;
+    float:left;
+    /* display: inline-block; */
     list-style-type: none;
     font-family: Anton, sans-serif;
     margin-right: 30px;
