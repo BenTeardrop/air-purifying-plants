@@ -64,3 +64,20 @@ nav ul {
     color:#757575 ;
     border-radius: 10px;
 }
+
+/* Hero image */
+
+#hero-outer {
+    height: 1700px;
+    width:100%;
+    overflow: hidden;
+    position: relative;
+}
+
+#hero-image {
+    height: 1700px;
+    width: 100%;
+    background: url(../images/hero-peace-lily-hands-2.jpg) no-repeat center center;
+    border-radius: 10px;
+
+}
