@@ -26,14 +26,15 @@ h1, h2 {
     float: left;
     font-size: 300%;
     margin-left: 10px;
+    line-height: 75px;
 }
 
 /* navigation link */
 
 #menu {
-    font-size: 200%;
+    font-size: 100%;
     letter-spacing: 5px;
-    direction: rtl;
+    line-height: 150px;
 }
 nav ul {
     float:right;
@@ -41,7 +42,25 @@ nav ul {
 #menu li {
     float:left;
     list-style-type: none;
-    font-family: Anton, sans-serif;
-    margin-right: 30px;
+    margin-right: 10px;
+    font-family: Montserrat, sans-serif;
+}
+
+#menu a {
+    text-decoration: none;
+    padding: 20px;
+    color: inherit;
     
+}
+
+#menu a:hover {
+    background-color:#ffff ;
+    color:#757575 ;
+    border-radius: 10px;
+}
+
+.active {
+    border: 2px solid #ffff;
+    color:#757575 ;
+    border-radius: 10px;
 }
