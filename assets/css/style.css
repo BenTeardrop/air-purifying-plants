@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -16,7 +16,7 @@ body {
 /* headings and logo */
 
 h1, h2 {
-    font-family: Anton, sans-serif;
+    font-family: Montserrat, sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #ffff;
@@ -24,7 +24,7 @@ h1, h2 {
 
 #logo {
     float: left;
-    font-size: 400%;
+    font-size: 300%;
     margin-left: 10px;
 }
 
@@ -40,7 +40,6 @@ nav ul {
 }
 #menu li {
     float:left;
-    /* display: inline-block; */
     list-style-type: none;
     font-family: Anton, sans-serif;
     margin-right: 30px;
