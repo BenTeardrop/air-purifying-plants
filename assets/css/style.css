@@ -185,3 +185,10 @@ nav ul {
 #six-plants h2, #six-plants h3  {
     background-color:rgba(117, 117, 117, .5) ;
 }
+
+
+/* footer */
+
+footer a {
+    color: #ffff;
+}
