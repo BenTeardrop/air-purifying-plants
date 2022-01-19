@@ -119,3 +119,68 @@ nav ul {
     margin: 25px;
     text-decoration: underline;
 }
+
+/* air purifying plants photos * 6 */
+
+#snake {
+    background: url(../images/snake-plant.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:left;
+}
+
+#rubber {
+    background: url(../images/rubber-plant.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:right;
+}
+
+#spider {
+    background: url(../images/spiderplant.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:left;
+}
+
+#aloe {
+    background: url(../images/aloe-vera.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:right;
+}
+#english-ivy {
+    background: url(../images/english-ivy.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:left;
+}
+
+#bamboo {
+    background: url(../images/bamboo-palm.jpg) no-repeat center center;
+    height: 600px;
+    width:50%;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 10px;
+    float:right;
+}
+
+#six-plants h2, #six-plants h3  {
+    background-color:rgba(117, 117, 117, .5) ;
+}
