@@ -210,3 +210,36 @@ padding: 10%;
 color:#ffff;
 }
 
+/* Plants page */
+
+.plant-info {
+
+    height: 400px;
+    width:100%;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    margin: 30px 15px;
+}
+
+.info-left {
+    padding-top: 30px;
+    float: left;
+    width: 33%;
+
+}
+
+.info-right{
+    float:right;
+    width:33%;
+
+}
+
+.plant-center-photo {
+    background: url(../images/snake-plant.jpg) no-repeat center center;
+    background-size: cover;
+    margin: 0 auto;
+    width: 33%;
+  
+
+}
