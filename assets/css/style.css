@@ -278,8 +278,6 @@ color:#ffff;
     margin: 0 auto;
 }
 
-.square-cover-bg {
-    background: url(../images/snake-plant-sm.jpg) no-repeat center center;
-    height:100%;
-
+.square-cover-bg > img{
+    height:100%
 }
