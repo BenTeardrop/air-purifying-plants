@@ -184,7 +184,10 @@ nav ul {
 
 #six-plants h2, #six-plants h3  {
     background-color:rgba(117, 117, 117, .5) ;
+    position: relative;
+    padding-left: 60px;
 }
+    
 
 
 /* footer */
