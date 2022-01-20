@@ -24,6 +24,11 @@ h3 {
     color: #ffff;
 }
 
+h4 {
+    font-family: Montserrat, sans-serif; 
+
+}
+
 #logo {
     float: left;
     font-size: 300%;
@@ -216,11 +221,12 @@ color:#ffff;
 
     height: 400px;
     width:100%;
-    text-align: center;
     position: relative;
     overflow: hidden;
     margin: 30px 15px;
+    text-align: center;
 }
+
 
 .info-left {
     padding-top: 30px;
@@ -229,11 +235,33 @@ color:#ffff;
 
 }
 
+.info-left > div {
+
+    width:50%; 
+    margin: 0 auto;
+    line-height: 20px;
+    
+
+}
+
 .info-right{
-    float:right;
+    padding-top: 30px;
+    float: right;
     width:33%;
 
 }
+
+.info-right > div {
+
+    width:50%; 
+    margin: 0 auto;
+    line-height: 20px;
+    text-align: center;
+    clear:both;
+    
+
+}
+
 
 .plant-center-photo {
     background: url(../images/snake-plant.jpg) no-repeat center center;
@@ -241,5 +269,9 @@ color:#ffff;
     margin: 0 auto;
     width: 33%;
   
+
+}
+
+.plant-center-photo > div {
 
 }
