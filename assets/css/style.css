@@ -278,6 +278,10 @@ color:#ffff;
     margin: 0 auto;
 }
 
-.square-cover-bg > img{
+.square-cover-bg {
     height:100%
+}
+
+.square-cover-bg img {
+    height:100%;
 }
