@@ -223,8 +223,8 @@ color:#ffff;
     width:100%;
     position: relative;
     overflow: hidden;
-    margin: 30px 15px;
     text-align: center;
+    padding: 30px 0;
 }
 
 
@@ -240,7 +240,7 @@ color:#ffff;
     width:50%; 
     margin: 0 auto;
     line-height: 20px;
-    
+    clear:both;
 
 }
 
@@ -264,14 +264,22 @@ color:#ffff;
 
 
 .plant-center-photo {
-    background: url(../images/snake-plant.jpg) no-repeat center center;
     background-size: cover;
     margin: 0 auto;
     width: 33%;
-  
-
 }
 
-.plant-center-photo > div {
+.square-container {
+    width:300px;
+    height:300px;
+    /* padding:30px; */
+    border: 3px solid #ffff ;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.square-cover-bg {
+    background: url(../images/snake-plant-sm.jpg) no-repeat center center;
+    height:100%;
 
 }
