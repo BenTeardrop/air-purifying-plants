@@ -35,11 +35,25 @@
             </ul>
         </nav>
     </header>
-    <section>
-        title
-    </section>
-    <section>
-       sign up to news letter
+    <section class="form-section">
+        <form action="https://formdump.codeinstitute.net/" method="POST" class="signup-form">
+        <h2>Sign up to the Newsletter</h2>
+        <label for="fname">First Name</label>
+        <input type="text" class="text-input" id="fname" name="first-name" required>
+        <label for="lname">Last Name</label>
+        <input type="text" class="text-input" id="lname" name="last-name" required>
+        <label for="email">Email</label>
+        <input type="email" class="text-input" id="email" name="email" required>
+        <label for="daily">Daily</label>
+        <input type="radio" id="daily" name="newsletter-frequency" value="daily" required>
+        <label for="weekly">Weekly</label>
+        <input type="radio" id="weekly" name="newsletter-frequency" value="weekly" required>
+        <label for="mothly">Monthly</label>
+        <input type="radio" id="monthly" name="newsletter-frequency" value="monthly" required>
+
+        <input class="join-button" type="submit" value="Sign Up!">
+    </form>
+
     </section>
     <body>
     <footer>
