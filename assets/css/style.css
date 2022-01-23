@@ -367,3 +367,18 @@ color:#ffff;
 
 /* Useful links page */
 
+.useful-links {
+    clear: both;
+    height: 150px;
+    margin: 25px;
+    padding: 35px;
+}
+
+.useful-links > h2 {
+    margin: 15px;
+}
+
+
+.useful-links a:hover {
+color: #ffff;
+}
