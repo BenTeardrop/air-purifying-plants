@@ -390,6 +390,12 @@ color:#ffff;
 color: #ffff;
 }
 
+/* media queries */
+@media screen and (max-width:900px) {
+#snake, #rubber, #spider, #aloe, #english-ivy, #bamboo{
+    width: 100%;
+}
+}
 
 @media screen and (max-width: 800px){
     #photos{
