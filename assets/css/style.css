@@ -395,6 +395,15 @@ color: #ffff;
 #snake, #rubber, #spider, #aloe, #english-ivy, #bamboo{
     width: 100%;
 }
+
+.info-left, .info-right, .plant-center-photo {
+    width: 100%;
+    float: left;
+    margin-top: 50px;
+}
+.plant-info {
+    height:100%;
+}
 }
 
 @media screen and (max-width: 800px){
