@@ -128,6 +128,18 @@ nav ul {
 
 /* air purifying plants photos * 6 */
 
+#six-plants {
+
+    height: 1600px;
+}
+
+#six-plants h2, #six-plants h3  {
+    background-color:rgba(117, 117, 117, .5) ;
+    position: relative;
+    padding-left: 60px;
+}
+    
+
 #snake {
     background: url(../images/snake-plant.jpg) no-repeat center center;
     height: 600px;
@@ -187,12 +199,7 @@ nav ul {
     float:right;
 }
 
-#six-plants h2, #six-plants h3  {
-    background-color:rgba(117, 117, 117, .5) ;
-    position: relative;
-    padding-left: 60px;
-}
-    
+
 
 
 /* footer */
@@ -381,4 +388,11 @@ color:#ffff;
 
 .useful-links a:hover {
 color: #ffff;
+}
+
+
+@media screen and (max-width: 800px){
+    #photos{
+        column-count: 1;
+    }
 }
