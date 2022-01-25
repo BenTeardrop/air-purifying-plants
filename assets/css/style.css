@@ -403,6 +403,7 @@ color: #ffff;
 }
 .plant-info {
     height:100%;
+    border-bottom: 2px solid #ffff;
 }
 }
 
