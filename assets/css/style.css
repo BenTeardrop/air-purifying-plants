@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Roboto:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -86,7 +86,7 @@ nav ul {
 #hero-image {
     height: 1700px;
     width: 100%;
-    background: url(../images/hero-peace-lily-hands-2.jpg) no-repeat center center;
+    background: url(../images/hero-peace-lily-hands-2.webp) no-repeat center center;
     border-radius: 10px;
 
 }
@@ -141,7 +141,7 @@ nav ul {
     
 
 #snake {
-    background: url(../images/snake-plant.jpg) no-repeat center center;
+    background: url(../images/snake-plant.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
@@ -151,7 +151,7 @@ nav ul {
 }
 
 #rubber {
-    background: url(../images/rubber-plant.jpg) no-repeat center center;
+    background: url(../images/rubber-plant.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
@@ -161,7 +161,7 @@ nav ul {
 }
 
 #spider {
-    background: url(../images/spiderplant.jpg) no-repeat center center;
+    background: url(../images/spiderplant.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
@@ -171,7 +171,7 @@ nav ul {
 }
 
 #aloe {
-    background: url(../images/aloe-vera.jpg) no-repeat center center;
+    background: url(../images/aloe-vera.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
@@ -180,7 +180,7 @@ nav ul {
     float:right;
 }
 #english-ivy {
-    background: url(../images/english-ivy.jpg) no-repeat center center;
+    background: url(../images/english-ivy.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
@@ -190,7 +190,7 @@ nav ul {
 }
 
 #bamboo {
-    background: url(../images/bamboo-palm.jpg) no-repeat center center;
+    background: url(../images/bamboo-palm.webp) no-repeat center center;
     height: 600px;
     width:50%;
     background-size: cover;
