@@ -30,4 +30,39 @@ Its aim is to teach people about air purifying using plants.
 
 ! [main-hero-image] ()
 
+*The Science Section
+ *this section aim is to give a brief explanation of the study about air purifying plant by the N.A.S.A, the benefits as well as mentioning a few of the toxins present in our air everyday.
+
+ ! [the-science-air-purifying-text] ()
+
+*the Six Main Plants
+ *this section is there to show the six main easy to grow indoor plants in the U.k as well as being easy to find and fairly cheap. It features their names in latin and in english attached to their respectives images to familiarise people with what they look like.
+
+ ! [six-air-purifying-plants] ()
+
+*the Footer 
+  *the footer features social media links to keep the website connected to relevant social media outlets
+  *there is also an extra link that leads you to an other page with very useful links about air purifying plants research like the wikipedia page, nasa research as well as additional plants that have been discovered to have those abilities.
+
+  ! [footer-image] ()
+
+  ! [useful-links-page] ()
+
+*Plants Page
+ *the plants page takes the six main plants of the home page and goes in details on how to care for them ie watering frequency and sun exposure as well as room positioning. We also wanted to point out which air toxins which plant is clearing out with a list a comprehensive list.
+
+ ! [plants-page] ()
+
+*Gallery
+ *the gallery is there to show you other beautiful plants that have the hability to air purify your environment that will be featured in the newsletter if you subscribe.
+
+ ! [Gallery-plants] ()
+
+*sign up form
+ *the sign up form features an other image of a peace lily which we have on the home page.
+ *the form is aim to people who want to discover and have updates on other plants discovered to have similar properties with a feature on having news daily, weekly or monthly.
+ *the form features first name, last name and email all required to the user to fill out.
+
+ ! [sign-up-form-page] ()
+
 
