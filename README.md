@@ -19,7 +19,7 @@ Its aim is to teach people about air purifying plants.
   *it contains four main links: The home page, the plants page, a gallery and the newsletter sign up form. 
   *The availability of the navigation bar on all the pages makes it easy to go back between any of them with ease and without the need of a return button.
 
- ! [navigation-bar-image] ()
+![navigation-bar-image](/assets/images/navbar.png)
 
 * the Main Plant photo
 
