@@ -42,28 +42,32 @@ Its aim is to teach people about air purifying plants.
 
 * the Footer 
   * the footer features social media links to keep the website connected to relevant social media outlets
-  *there is also an extra link that leads you to an other page with very useful links about air purifying plants research like the wikipedia page, nasa research as well as additional plants that have been discovered to have those abilities.
+  * there is also an extra link that leads you to an other page with very useful links about air purifying plants.
 
 ![footer-image](/assets/images/footer-image.png)
 
-![useful-links-page](/assets/images/)
+ * useful links page 
+   * links to research on air purifying plants like the wikipedia page, nasa research as well as additional plants that have been discovered to have those abilities.
+
+
+![useful-links-page](/assets/images/useful-links-page.png)
 
 * Plants Page
   * the plants page takes the six main plants of the home page and goes in details on how to care for them ie watering frequency and sun exposure as well as room positioning. We also wanted to point out which air toxins which plant is clearing out with a list a comprehensive list.
 
-![plants-page]()
+![plants-page](/assets/images/plants-page.png)
 
 * Gallery
   * the gallery is there to show you other beautiful plants that have the hability to air purify your environment that will be featured in the newsletter if you subscribe.
 
-![Gallery-plants]()
+![Gallery-plants](/assets/images/gallery-page.png)
 
 * sign up form
   * the sign up form features an other image of a peace lily which we have on the home page.
   * the form is aim to people who want to discover and have updates on other plants discovered to have similar properties with a feature on having news daily, weekly or monthly.
   * the form features first name, last name and email all required to the user to fill out.
 
-![sign-up-form-page]()
+![sign-up-form-page](/assets/images/sign-up-page.png)
 
 * features to implement
   * we want the user to be greeted weekly with six new featured plants as the research by NASA as been discovering new plants that air purify your environment.
