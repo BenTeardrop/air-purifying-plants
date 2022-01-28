@@ -4,7 +4,7 @@ Air purifying plants website is a website for all, aim at anybody at any age tha
 
 Its aim is to teach people about air purifying plants.
 
-! [am i responsive?] ()
+![am i responsive?](/assets/images/am-i-responsive.png)
 
 ## Features
 
