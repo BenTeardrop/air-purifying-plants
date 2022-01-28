@@ -299,8 +299,9 @@ color:#ffff;
     height: 150px;
 }
 #gallery-title > h2 {
-   text-align: center;
-   padding-top: 50px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
 }
 
 #photos {
