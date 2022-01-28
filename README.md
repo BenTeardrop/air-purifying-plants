@@ -70,3 +70,31 @@ Its aim is to teach people about air purifying plants.
 
 # Testing
 
+the site works well on different screens, the only bug i found is the letter A in my font choices had a slight defect but as soon as i changed the thickness from 800 to 600 it seems to work with no bugs.
+
+## Validator testing
+
+* html
+ *  
+* CSS
+ * 
+
+## Unfixed Bug
+
+
+
+# Deployment
+
+* The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+* From the source section drop-down menu, select the Master Branch
+* Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+# Credits
+
+## Content
+
+
+
+## Media
+
